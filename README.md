@@ -5,7 +5,7 @@ See my other repositories github.com/WeirongChen/DeepEdge for details about Deep
 
 <p align="center"><img src="./figs/img.jpg" width="150"><img src="./figs/label.jpg" width="150"></p>
 
-- Pretrained model in PyTorch can be downloaded here: 
+- Pretrained model can be downloaded here: 
  [DeepEdge_PyTorch_model](https://yaleedu-my.sharepoint.com/:u:/g/personal/wei-rong_chen_yale_edu/EdRUiB4XmYBPsuPwtwFCKXIBW5eGEyx0-WPS4EFNudJC_w?e=kDrdGg)    
 
 This program is free software under GNU General Public License, version 3.  
