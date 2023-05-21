@@ -1,5 +1,5 @@
 # DeepEdeg-PyTorch
-A implementation of DeepEdge in PyTorch.
+Anthor implementation of DeepEdge using PyTorch.
 
 See my other repositories github.com/WeirongChen/DeepEdge for details about DeepEdge.
 
