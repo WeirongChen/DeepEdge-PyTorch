@@ -1,4 +1,4 @@
-# DeepEdeg-PyTorch
+# DeepEdge-PyTorch
 Anthor implementation of DeepEdge using PyTorch.
 
 See my other repositories github.com/WeirongChen/DeepEdge for details about DeepEdge.
